@@ -9,3 +9,8 @@ Answer: Data science can be applied to any field in which research is conducted.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the history of the whole repository, while rebasing creates a linear history by moving the branch on top of main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm really looking forward to learning, not just in this class, but in all of them!
+
